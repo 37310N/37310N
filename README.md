@@ -1,6 +1,6 @@
 - 👋 Hello earthlings!
 - 👾 I’m @37310N
-- 👀 I’m interested in Urban Forestry
+- 👀 I’m interested in tree detection and urban forestry
 - 🌱 I’m currently a B.Sc. Forestry student
 - 💞️ I’m looking to collaborate on GIS and geoAI
 
